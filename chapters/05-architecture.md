@@ -38,6 +38,7 @@ Generally speaking, AIC's architecture inherits some of Ethereum's progressive s
 
 
 ```pgsql 
+                    
                     ┌─────────────────────────────────────┐
                     │     Governance & Security Layer     │  ← horizontal (always on)
                     │  policies · fork-monitor · reputation│
@@ -54,18 +55,19 @@ Generally speaking, AIC's architecture inherits some of Ethereum's progressive s
           └───────────────────────────┼───────────────────────────┘
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     Application / Domain Stub       │
-                    │  Education · Health - Energy     │
+                    │     Recovery & HMN-Core Layer       │
+                    │  resilience · meaning preservation  │
                     └─────────────────────────────────────┘
                                       │
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     HMN-Core Layer / Recovery           │
-                    │  Meaning preservation · resilience         │
+                    │     Application / Domain stubs      │
+                    │  Education · Health · Energy · …    │
                     └─────────────────────────────────────┘
 ``` 
 
-Architectural Philosophy: Evolutionary by Design
+## Architectural Philosophy: Evolutionary by Design
+
 The architecture of Adaptive Intelligence Circle is not designed to exist in a fixed point in time, but is born with continuous evolution as its core principle. We call this Evolutionary by Design – an architectural philosophy that views change not as an exception to be overcome, but as a natural and necessary aspect of a truly civilized system.
 
 Instead of building a rigid system that later requires major overhauls (like many current technology platforms), AIC is designed from the ground up with the ability to evolve smoothly, safely, and without disrupting its core identity. This stems from the understanding that technology and human civilization are both living entities that must constantly adapt to changing realities while maintaining their ethics and fundamental meaning.
