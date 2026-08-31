@@ -1,6 +1,7 @@
 # ARCHITECTURE 
 
 This is one of the most important sections in the entire white paper. It encompasses the overall architecture of the ecosystem and is an expression of the Ethical from Kernel, Third-path Absolute, and Human Meaning Network philosophies. As mentioned, AIC is a multi-layered protocol, and all layers are interconnected under the ethical kernel principle. In comparison to the Internet, the Internet's architecture is a layered system based on the TCP/IP model with four main layers: Link, Internet, Transport, and Application. It is designed to ensure global connectivity, flexible scalability, and decentralized operation. And now, I give you the layer description of AIC: 
+
 Layer 1 – Ethical Kernel
 
 + This is the heart and "hard constitution" of the entire system.
@@ -52,14 +53,14 @@ Generally speaking, AIC's architecture inherits some of Ethereum's progressive s
           └───────────────────────────┼───────────────────────────┘
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     Recovery & HMN-Core Layer       │
-                    │  resilience · meaning preservation  │
+                    │    Application / Domain stubs     │
+                    │   Education · Health · Energy · … │
                     └─────────────────────────────────────┘
                                       │
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     Application / Domain stubs      │
-                    │  Education · Health · Energy · …    │
+                    │     ARecovery & HMN-Core Layer     │
+                    │   resilience · meaning preservation  …    │
                     └─────────────────────────────────────┘
 ``` 
 

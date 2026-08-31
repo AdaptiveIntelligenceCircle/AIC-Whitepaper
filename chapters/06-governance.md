@@ -5,8 +5,11 @@ We begin with the Governance Model. This is the horizontal layer within the enti
 One thing I discovered during the development of AIC is that governance can become a vital mechanism for the entire ecosystem. Besides providing the usual policies and legal commitments, governance also acts as a security layer against information manipulation or user data theft. When the distributed infrastructure operates on a large scale, it clashes with the community and human nature; in that case, governance is the only evidence of transparency and trustworthiness. I will delve into this aspect of governance with the following structure:
 
 •	The Founder retains strategic veto power on core direction as long as he is able and willing.
+
 •	Succession is not a transfer of ownership, but a distributed stewardship model.
+
 •	Any successor or committee must uphold zero-donation and Third Path Absolute without exception.
+
 •	Emergency succession and planned succession are handled differently.
 
 In case the Founder becomes unavailable (health, military service, force majeure), an Emergency Steering Group of 2–3 Trusted Admins (already designated) will temporarily maintain the project.
