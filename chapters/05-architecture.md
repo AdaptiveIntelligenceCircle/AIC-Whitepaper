@@ -59,7 +59,7 @@ Generally speaking, AIC's architecture inherits some of Ethereum's progressive s
                                       │
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     ARecovery & HMN-Core Layer     │
+                    │     Recovery & HMN-Core Layer     │
                     │   resilience · meaning preservation  …    │
                     └─────────────────────────────────────┘
 ``` 
