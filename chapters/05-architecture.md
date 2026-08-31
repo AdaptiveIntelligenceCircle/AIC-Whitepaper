@@ -36,7 +36,8 @@ The architecture of AIC reveals itself as a layered system, intelligible to both
 
 Generally speaking, AIC's architecture inherits some of Ethereum's progressive spirit, such as distributed networks, DAO governance, and scalability and community maintenance. However, AIC also has fundamental technical differences; instead of focusing solely on consensus mechanisms or human connectivity, AIC strives to optimize processes based on sustainability. AIC is optimized because it doesn't rely on tokens or smart contracts; it has five sustainability layers and one horizontal layer. These layers not only process data but also integrate a humanistic layer, extending the process beyond economic considerations to encompass social implications. The AIC process is designed to reduce friction; instead of simply processing data for those who pay, AIC optimizes through knowledge and collaboration. The Internet possesses a layered and continuously optimized process for fast, globally scalable data transmission, but lacks a humanistic layer. While the Internet ensures packets can be transmitted from server to client, AIC ensures packet security and prevents distortion by centralized power. Therefore, AIC optimizes not only technically but also socially: reducing the risk of manipulation and deviation from established norms. Besides its optimization capabilities, AIC possesses practical reasoning but is still in the transition phase between Phase 1 and Phase 2, the most challenging stage for a Founder-Driven. One limitation of AIC's architecture is its lack of performance optimization. For example, ethical principles from the ground up can increase the necessary safety, accuracy, and humanistic aspects, but conversely, the operational capacity on a large system is significant and increases decision-making latency. This is logical because AIC has a bias towards humanistic principles that can be open-coded for machine learning. Performance is a crucial issue for most current AI models, so AIC's approach is not to completely replace AI models but simply to build a safety layer under the infrastructure and restructure governance towards ethical safety. AI models like ChatGPT, Grok, Cursor, and Claude are all ensuring extremely high performance with the support of Nvidia GPUs, allowing them to process large datasets in a short time. This could lead to a "Single Point of Failure," as 70% of internet users rely on these platforms. Processing large datasets without security could affect user perception and undermine AI's position in the development of computing infrastructure. Below is the diagram of AIC: 
 
-``` pgsql 
+
+```
                     ┌─────────────────────────────────────┐
                     │     Governance & Security Layer     │  ← horizontal (always on)
                     │  policies · fork-monitor · reputation│
@@ -53,16 +54,15 @@ Generally speaking, AIC's architecture inherits some of Ethereum's progressive s
           └───────────────────────────┼───────────────────────────┘
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │    Application / Domain stubs          │
-                    │   Education · Health · Energy · …     │
+                    │     Application / Domain Stub       │
+                    │  Education · Health - Energy   │
                     └─────────────────────────────────────┘
                                       │
                                       ▼
                     ┌─────────────────────────────────────┐
-                    │     Recovery & HMN-Core Layer     │
-                    │   resilience · meaning preservation… │
+                    │     HMN-Core Layer / Recovery      │
+                    │  Meaning preservation · resilience ·  …    │
                     └─────────────────────────────────────┘
-``` 
 
 Architectural Philosophy: Evolutionary by Design
 The architecture of Adaptive Intelligence Circle is not designed to exist in a fixed point in time, but is born with continuous evolution as its core principle. We call this Evolutionary by Design – an architectural philosophy that views change not as an exception to be overcome, but as a natural and necessary aspect of a truly civilized system.
