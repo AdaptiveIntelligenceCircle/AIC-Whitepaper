@@ -5,6 +5,10 @@ The official whitepaper of AIC | @AdaptiveIntelligenceCircle
 
 > A foundational ethical AI protocol for civilizational restructuring.
 
+<p align="center">
+  <img src="assets/AIC-Whitepaper.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
 ## Vision
 AIC is not just another AI project. It is an attempt to build the **ethical kernel** at the lowest layer of computing infrastructure, combined with the **Human Meaning Network** to prepare humanity for the post-scarcity era.
 
