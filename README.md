@@ -13,7 +13,7 @@ The official whitepaper of AIC | @AdaptiveIntelligenceCircle
 AIC is not just another AI project. It is an attempt to build the **ethical kernel** at the lowest layer of computing infrastructure, combined with the **Human Meaning Network** to prepare humanity for the post-scarcity era.
 
 ## Status
-- Whitepaper version: 0.1 (Draft)
+- Whitepaper version: 1.0
 - TestNet: Phase 0 (Core) – In development
 - License: CC BY-NC-ND 4.0 + GPL-3.0.
 
