@@ -16,6 +16,7 @@ AIC is not just another AI project. It is an attempt to build the **ethical kern
 - Whitepaper version: 1.0
 - TestNet: Phase 0 (Core) – In development
 - License: CC BY-NC-ND 4.0 + GPL-3.0.
+- Zenodo/EU open research platform: [Official](https://zenodo.org/records/22851191) 
 
 ## Why CC BY-NC-ND 4.0?
 We believe ideas that aim to restructure civilization should belong to humanity.This license requires that reusers give credit to the creator. It allows reusers to copy and distribute the material in any medium or format in unadapted form and for noncommercial purposes only.
@@ -23,6 +24,7 @@ We believe ideas that aim to restructure civilization should belong to humanity.
 ---
 
 **Contribution & Contact**
+
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Adaptive Intelligence Circle and Human Meaning Network's whitepaper © 2026 by Nguyen Duc Tri is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
